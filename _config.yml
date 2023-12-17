@@ -9,7 +9,7 @@ name: dadcode
 author: Yehonatan Bitton
 
 # Short bio or description (displayed in the header)
-description: eat sleep code
+description: Software engineer and a proud dad
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars.githubusercontent.com/u/62200791?s=400&u=700cfa3e76cae058d6682ca07301a80ebc4320da&v=4
@@ -30,15 +30,14 @@ footer-links:
   pinterest:
   rss: rss
   twitter: YehonatanBitto1
-  stackoverflow: 
+  stackoverflow:
   youtube:
   googleplus:
   playconsole:
 
-
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: 
+disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
@@ -74,7 +73,7 @@ kramdown:
   syntax_highlighter: rouge
   syntax_highlighter_opts:
     # Use existing pygments syntax highlighting css
-    css_class: 'highlight'
+    css_class: "highlight"
 
 # Set the Sass partials directory, as we're using @imports
 sass:
@@ -87,7 +86,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
 
-include: ['_pages']
+include: ["_pages"]
 
 paginate: 6
 paginate_path: /page:num/
@@ -99,4 +98,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
