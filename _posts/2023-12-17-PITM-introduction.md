@@ -18,7 +18,7 @@ Out method is similar to a MITM attack using Code interpreter feature and Bing s
 
 ## Intro Attacking surface for prompts
 
-Earlier this year OWAS has introduced the main riks from LLMs
+Earlier this year OWASP has introduced the main risks using LLMs
 
 1. Prompt Injection: Crafted inputs can manipulate LLMs, leading to unauthorized access, data breaches, and compromised decision-making.
 2. Insecure Output Handling: Not validating LLM outputs can lead to downstream security issues like code execution, compromising systems and exposing data.
