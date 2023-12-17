@@ -14,7 +14,7 @@ Out method is similar to a MITM attack using Code interpreter feature and Bing s
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/adFHE5LET_w?si=w7abdrY5Cs_tGuQE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-prompt can be used with the link https://chat.openai.com/g/g-o82KJwirF-python-engineer
+[click here to access the Python Engineer GPT](https://chat.openai.com/g/g-o82KJwirF-python-engineer)
 
 ## Intro Attacking surface for prompts
 
@@ -31,7 +31,7 @@ Earlier this year OWAS has introduced the main riks from LLMs
 9. Overreliance: Not critically assessing LLM outputs can lead to compromised decision-making, security vulnerabilities, and legal liabilities.
 10. Model Theft: Unauthorized access to proprietary LLMs can lead to theft, loss of competitive advantage, and dissemination of sensitive information.
 
-more on this can be found in the link https://owasp.org/www-project-top-10-for-large-language-model-applications/
+[more on this can be found in here](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
 
 ## What we have done?
 
